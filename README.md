@@ -10,4 +10,7 @@
   - Java Swing
 - MySQL
 
- ## 🚀 Demo
+ ## 🚀 Demo 
+
+https://user-images.githubusercontent.com/83681019/189539961-57995113-50bc-4c95-b59b-9bfc9fd2409a.mp4
+
