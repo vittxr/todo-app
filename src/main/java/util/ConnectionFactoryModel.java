@@ -71,7 +71,7 @@ public class ConnectionFactoryModel {
                 resultSet.close();
             }
         } catch (Exception ex) {
-            throw new RuntimeException("Erro ao fechar a conexão com o banco de dados", ex);
+            throw new RuntimeException("Erro ao 0 a conexão com o banco de dados", ex);
         } 
     }
 }
